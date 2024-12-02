@@ -44,6 +44,14 @@ h2 {
     color: #555;
 }
 
+#about .btn{
+    width: 150px;
+}
+
+#about .btn:hover{
+    transform: scale(1.1);
+}
+
 /* Skills Section */
 #skills {
     padding: 60px 0;
